@@ -7,6 +7,11 @@
  * GP20U7 TX pin to digital pin 0/RX
  * GP20U7 VCC pin to 3.3V
  * GP20U7 GND pin to ground
+
+ NOTE: The GPS unit can take up to a minute or more to acquire a position
+ lock and start outputting data. That means you may not see the serial
+ output right away which is normal.
+ 
  */
 
 // include the library code:
