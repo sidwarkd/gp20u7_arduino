@@ -6,8 +6,8 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-GP20U7	KEYWORD1	GP20U7
-Geolocation	KEYWORD1	Geolocation
+GP20U7	KEYWORD1
+Geolocation	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
